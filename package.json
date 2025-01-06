@@ -1,0 +1,12 @@
+{
+      "name": "text-replacement-app",
+      "version": "1.0.0",
+      "description": "A cross-platform text replacement app",
+      "main": "main.js",
+      "scripts": {
+            "start": "electron ."
+      },
+      "dependencies": {
+            "electron": "^25.9.8"
+      }
+}
